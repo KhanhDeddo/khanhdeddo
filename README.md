@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcom to my profile of you 👋
 
 <!--
 **KhanhDeddo/khanhdeddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
