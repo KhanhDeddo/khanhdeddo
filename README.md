@@ -45,13 +45,13 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/khanhdeddo" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="khanhdeddo-facebook" />
+    <img src="https://img.icons8.com/?size=100&id=118562&format=png&color=000000" alt="khanhdeddo-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/khanh-nguyen-van-b37847341" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="khanhdeddo-linkedin" />
+    <img src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" alt="khanhdeddo-linkedin" />
   </a>
   <a href="mailto:khanhdeddo@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="khanhdeddo-email" />
+    <img src="https://img.icons8.com/?size=100&id=108806&format=png&color=000000" alt="khanhdeddo-email" />
   </a>
 </div>
 
