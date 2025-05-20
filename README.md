@@ -1,5 +1,5 @@
 <!-- Khanh Deddo -->
-<h2 align="center">Welcom to my profile of me 😎 !</h2>
+<h2 align="center">About me</h2>
 <p>Hi everyone ! I am Khanh, a newbie web developer.</p>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
