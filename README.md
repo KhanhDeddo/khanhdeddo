@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/khanh-nguyen-van-b37847341" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="khanhdeddo-linkedin" />
   </a>
-  <a href="khanhdeddo@gmail.com" target="top">
+  <a href="mailto:khanhdeddo@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="khanhdeddo-email" />
   </a>
 </div>
