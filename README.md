@@ -1,4 +1,7 @@
 <!-- Khanh Deddo -->
+<a href="#" target="_blank">
+  <img src="svg/profile.svg" width="1200" alt="trungquandev-official" />
+</a>
 <h2 align="center">About me</h2>
 <p>Hi everyone ! I am Khanh, a newbie web developer 😎.</p>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
